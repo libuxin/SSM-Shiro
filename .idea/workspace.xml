@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shiro:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bae12d74-82a1-46f4-b2c5-67d578175ed5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3c5d99b1-8fae-4232-9d35-d1ad55554ad8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_0_2_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_quartz_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bgee_log4jdbc_log4j2_log4jdbc_log4j2_jdbc4_1_1_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensymphony_quartz_quartz_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/sys-data.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/sys-schema.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shiro.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/LoginController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/PermissionsController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/RegisterController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/RolesController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/UserController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/controller/exception/DefaultExceptionHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/credentials/RetryLimitHashedCredentialsMatcher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/PermissionDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/PermissionDaoImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/RoleDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/RoleDaoImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/UserDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/dao/UserDaoImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/Permission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/Result.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/Role.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/RolePermission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/TreeEntity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/entity/UserRole.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/PermissionMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/PermissionMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/RoleMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/RoleMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/UserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/mapper/UserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/realm/UserRealm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/BaseService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/PasswordHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/PermissionService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/PermissionServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/RoleService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/RoleServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/UserService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/service/UserServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/li/swagger/SwaggerConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/other/ehcache.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/other/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/other/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-beans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-shiro-web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/authenticated.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/data.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/page/permission.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/page/role.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/page/user.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/permission.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/role.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/user.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/metroStyle/img/line_conn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/metroStyle/img/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/metroStyle/img/metro.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/metroStyle/img/metro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/css/metroStyle/metroStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/jquery-3.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/jquery.ztree.core.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/static/lib/jquery.ztree.excheck.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/success.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/unauthorized.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/ztree.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/PermissionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/RoleTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/UserTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ssm-shiro.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/other/ehcache.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/other/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/other/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/spring-beans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/spring/spring-shiro-web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/mybatis/mybatis.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/other/ehcache.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/other/jdbc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/other/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/spring/spring-beans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/spring/spring-mvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/classes/spring/spring-shiro-web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/aspectjrt-1.7.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/aspectjweaver-1.7.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/byte-buddy-1.6.14.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/classmate-1.3.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/commons-collections-3.2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/commons-logging-1.1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/druid-0.2.23.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/ehcache-core-2.5.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/fastjson-1.2.47.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/guava-18.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/hamcrest-core-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/jackson-annotations-2.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/jackson-core-2.5.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/jackson-databind-2.5.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/javassist-3.21.0-GA.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/javax.servlet-api-3.0.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/jstl-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/junit-4.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/log4j-1.2.17.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/log4jdbc-log4j2-jdbc4.1-1.16.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/mapstruct-1.1.0.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/mybatis-3.2.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/mysql-connector-java-5.1.32.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/quartz-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/reflections-0.9.11.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/shiro-core-1.3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/shiro-ehcache-1.3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/shiro-quartz-1.3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/shiro-spring-1.3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/shiro-web-1.3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/slf4j-api-1.7.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/slf4j-log4j12-1.7.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-core-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-schema-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-spi-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-spring-web-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/springfox-swagger2-2.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/swagger-annotations-1.5.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/lib/swagger-models-1.5.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/authenticated.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/data.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/page/permission.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/page/role.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/page/user.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/js/permission.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/js/role.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/js/user.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/metroStyle/img/line_conn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/metroStyle/img/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/metroStyle/img/metro.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/metroStyle/img/metro.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/css/metroStyle/metroStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/jquery-3.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/jquery.ztree.core.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/static/lib/jquery.ztree.excheck.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/success.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/unauthorized.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/shiro-7/ztree.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shiro@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shiro@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shiro@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shiro: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shiro@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shiro: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="sys_users: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>create</find>
+      <find>tycoding</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>li</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../blog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hello" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../initializr-start" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/blog-prototype" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/blog-user" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/bootstrap-in-action" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/elasticsearch-in-action" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/new-star-blog" value="PREVIEW" />
+        <entry key="F:/61、Spring Boot带前后端 渐进式开发企业级博客系统/x1hn1k/thymeleaf-in-action" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/other/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tycoding/swagger/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tycoding/controller/RolesController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/ztree.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/other/redis.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tycoding/filter/CustomFormAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tycoding/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tycoding/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-shiro-web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="683" />
+    <option name="height" value="683" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro-best" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\可行代码\shiro-best\src\main\resources\spring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="best" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M17" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shiro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shiro_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49739" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shiro:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae12d74-82a1-46f4-b2c5-67d578175ed5" name="Default" comment="" />
+      <created>1547865001505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547865001505</updated>
+      <workItem from="1547865003427" duration="759000" />
+      <workItem from="1547868640679" duration="5414000" />
+      <workItem from="1547877675434" duration="1959000" />
+      <workItem from="1547882240766" duration="1154000" />
+      <workItem from="1547991274007" duration="208000" />
+      <workItem from="1548032529622" duration="937000" />
+      <workItem from="1548036125770" duration="1414000" />
+      <workItem from="1548039187437" duration="2733000" />
+      <workItem from="1548049082400" duration="6893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21471000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18910742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34013605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27760968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="SQL Generator" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/other/redis.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/mapper/PermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="92" column="33" lean-forward="false" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="53" column="43" lean-forward="true" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="60" lean-forward="true" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/other/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/other/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/ztree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/page/role.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/lib/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/entity/TreeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/PermissionsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2214">
+          <caret line="84" column="35" lean-forward="true" selection-start-line="84" selection-start-column="35" selection-end-line="84" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/mapper/PermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/PasswordHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c5d99b1-8fae-4232-9d35-d1ad55554ad8/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/other/redis.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tycoding/filter/CustomFormAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/entity/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="467" column="22" lean-forward="false" selection-start-line="467" selection-start-column="22" selection-end-line="467" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-708">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/6649e739/3c5d99b1-8fae-4232-9d35-d1ad55554ad8/shiro.sys_users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="54" column="51" lean-forward="false" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <folding>
+            <marker date="1548054974644" expanded="true" signature="289:363" ph="INSERT INTO sys_users_roles... " />
+            <marker date="1548054974644" expanded="true" signature="471:548" ph="DELETE FROM sys_users_roles... " />
+            <marker date="1548054974644" expanded="true" signature="680:895" ph="SELECT r.id,... sys_users" />
+            <marker date="1548054974644" expanded="true" signature="1037:1385" ph="SELECT p.id,... sys_users" />
+            <marker date="1548054974644" expanded="true" signature="1504:1590" ph="SELECT COUNT... sys_users_roles" />
+            <marker date="1548054974644" expanded="true" signature="1691:1818" ph="INSERT INTO sys_users" />
+            <marker date="1548054974644" expanded="true" signature="1906:1944" ph="DELETE FROM sys_users... " />
+            <marker date="1548054974644" expanded="true" signature="2047:2598" ph="UPDATE sys_users... " />
+            <marker date="1548054974644" expanded="true" signature="2723:2763" ph="SELECT * FRO... sys_users" />
+            <marker date="1548054974644" expanded="true" signature="2862:2885" ph="SELECT * FRO... sys_users" />
+            <marker date="1548054974644" expanded="true" signature="3012:3064" ph="SELECT * FRO... sys_users" />
+            <marker date="1548054974644" expanded="true" signature="3174:3223" ph="DELETE FROM sys_users_roles... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/RolesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1217">
+          <caret line="224" column="22" lean-forward="false" selection-start-line="224" selection-start-column="16" selection-end-line="224" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="31" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="61" column="2" lean-forward="false" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-shiro-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="139" column="38" lean-forward="false" selection-start-line="139" selection-start-column="38" selection-end-line="139" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/exception/DefaultExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/page/permission.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/li/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shiro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 28 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shiro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
